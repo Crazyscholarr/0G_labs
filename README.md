@@ -135,7 +135,7 @@ Nếu bạn gặp lỗi, vui lòng:
 If you run into any problems:
 - Check the `logs/app.log`
 - Open an issue in the repo
-- Or contact via Telegram/Zalo (if community exists)
+- Or contact via Telegram
 
 ---
 
