@@ -1,0 +1,17 @@
+{
+  "name": "0g-labs",
+  "version": "1.0.0",
+  "description": "0G-Galileo-Testnet Faucet and Token Automation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "web3": "^4.0.0",
+    "axios": "^1.0.0",
+    "2captcha": "^3.0.0",
+    "winston": "^3.0.0",
+    "colors": "^1.4.0",
+    "rotating-file-stream": "^3.0.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "captcha": {
+    "apiKey": "YOUR_2CAPTCHA_API_KEY"
+  },
+  "settings": {
+    "pauseBetweenAttempts": [5, 10],
+    "pauseBetweenSwaps": [10, 20],
+    "maxRetries": 3,
+    "waitForTransactionConfirmationInSeconds": 120,
+    "numberOfSwaps": [1, 3],
+    "balancePercentToSwap": [50, 90]
+  }
+}
