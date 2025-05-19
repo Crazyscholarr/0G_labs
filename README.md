@@ -132,6 +132,7 @@ Nếu bạn gặp lỗi, vui lòng:
 - Kiểm tra `logs/app.log`
 - Tạo issue mới tại repository
 - Hoặc liên hệ Telegram
+
 If you run into any problems:
 - Check the `logs/app.log`
 - Open an issue in the repo
